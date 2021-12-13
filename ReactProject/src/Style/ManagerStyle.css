@@ -1,0 +1,37 @@
+.TableHeader{
+    background-color: #084298;
+    border-color:#084298 !important;
+    color: white;
+}
+.tablecss{
+    width: 75% !important;
+    margin-left: 50px;
+    border: #084298;
+    float: right;
+    margin-right: 165px;
+}
+.Logoutbtn{
+    float: right;
+}
+.StatusMsg {
+    text-decoration: underline;
+    color: #530081;
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 10px;
+  
+  }
+ .btn-primary{
+     color: white !important;
+     background-color: #084298 !important;
+     border-color: #084298 !important;
+ } 
+.btn-secondary {
+    color: #0f0f0f !important;
+    background-color: #bbbfc2 !important;
+    border-color: #bbbfc2 !important;
+}
+.Headings {
+    color:#084298;
+    text-decoration: underline;
+}
